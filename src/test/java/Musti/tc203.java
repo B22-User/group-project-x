@@ -1,4 +1,4 @@
-package b22_user.Musti;
+package Musti;
 
 public class tc203 {
     public static void main(String[] args) {
